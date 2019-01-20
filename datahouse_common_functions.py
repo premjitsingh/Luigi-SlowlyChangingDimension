@@ -1,7 +1,7 @@
 __description__ = '''
 ==== OVERVIEW ====
 
-ORIGINAL AUTHOR Dan Gooden
+ORIGINAL AUTHOR 
 PURPOSE         Contains common functions re-used by multiple tasks.
 NOTES           None at this time.
 
