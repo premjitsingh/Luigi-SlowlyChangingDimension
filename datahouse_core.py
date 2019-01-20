@@ -1,7 +1,7 @@
 __description__ = '''
 ==== OVERVIEW ====
 
-ORIGINAL AUTHOR Premjit Singh
+ORIGINAL AUTHOR 
 PURPOSE         All generic core classes that are used across the various stages of loading the data warehouse.
 NOTES           None at this time.
 
